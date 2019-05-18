@@ -20,12 +20,26 @@ namespace Factory_Method
             Console.WriteLine("Quantidade de Pessoas ?");
             int qtdPessoas = Convert.ToInt16(Console.ReadLine());
 
+            Console.WriteLine("Qual cenário ?");
+            Console.WriteLine("1 - Normal");
+            Console.WriteLine("2 - Crise");
+            int cenario = Convert.ToInt16(Console.ReadLine());
+
             try
             {
                 if (distancia <= 500)
                 {
-                    FactoryConcret factory = new FactoryConcret();
-                    Console.WriteLine(factory.createVeiculo(condicaoMetereologica, qtdPessoas).getDescricao());
+                    switch(cenario)
+                    {
+                        case 1:
+                            FactoryConcret factory = new FactoryConcret();
+                            Console.WriteLine(factory.createVeiculo(condicaoMetereologica, qtdPessoas).getDescricao());
+                            break;
+                        case 2:
+                            FactoryCrise factoryCrise = new FactoryCrise();
+                            Console.WriteLine(factoryCrise.createVeiculo(condicaoMetereologica, qtdPessoas).getDescricao());
+                            break;
+                    }
                 }
                 else
                 {

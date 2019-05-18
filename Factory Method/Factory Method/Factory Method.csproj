@@ -47,6 +47,7 @@
     <Compile Include="Escort.cs" />
     <Compile Include="Factory.cs" />
     <Compile Include="FactoryConcret.cs" />
+    <Compile Include="FactoryCrise.cs" />
     <Compile Include="Opala.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
