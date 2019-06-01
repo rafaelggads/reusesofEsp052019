@@ -1,0 +1,4 @@
+C:\Users\Aluno\Documents\projetos\reusesofEsp052019\Observer\Observer\bin\Debug\Observer.exe
+C:\Users\Aluno\Documents\projetos\reusesofEsp052019\Observer\Observer\bin\Debug\Observer.pdb
+C:\Users\Aluno\Documents\projetos\reusesofEsp052019\Observer\Observer\obj\x86\Debug\Observer.exe
+C:\Users\Aluno\Documents\projetos\reusesofEsp052019\Observer\Observer\obj\x86\Debug\Observer.pdb
