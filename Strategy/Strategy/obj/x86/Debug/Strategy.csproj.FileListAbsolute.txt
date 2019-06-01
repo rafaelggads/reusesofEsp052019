@@ -1,0 +1,4 @@
+c:\users\aluno\documents\visual studio 2010\Projects\Strategy\Strategy\bin\Debug\Strategy.exe
+c:\users\aluno\documents\visual studio 2010\Projects\Strategy\Strategy\bin\Debug\Strategy.pdb
+c:\users\aluno\documents\visual studio 2010\Projects\Strategy\Strategy\obj\x86\Debug\Strategy.exe
+c:\users\aluno\documents\visual studio 2010\Projects\Strategy\Strategy\obj\x86\Debug\Strategy.pdb
