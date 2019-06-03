@@ -1,0 +1,7 @@
+/Users/rafael/workspace/www/estudos/JaPediu/JaPediu/bin/Debug/JaPediu.exe.config
+/Users/rafael/workspace/www/estudos/JaPediu/JaPediu/bin/Debug/JaPediu.exe
+/Users/rafael/workspace/www/estudos/JaPediu/JaPediu/bin/Debug/JaPediu.pdb
+/Users/rafael/workspace/www/estudos/JaPediu/JaPediu/obj/Debug/Decorator.csprojAssemblyReference.cache
+/Users/rafael/workspace/www/estudos/JaPediu/JaPediu/obj/Debug/Decorator.csproj.CoreCompileInputs.cache
+/Users/rafael/workspace/www/estudos/JaPediu/JaPediu/obj/Debug/JaPediu.exe
+/Users/rafael/workspace/www/estudos/JaPediu/JaPediu/obj/Debug/JaPediu.pdb
