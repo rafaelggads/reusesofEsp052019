@@ -1,7 +1,0 @@
-C:\Users\Pós Venda 02\source\repos\JaPediu\JaPediu\bin\Debug\JaPediu.exe.config
-C:\Users\Pós Venda 02\source\repos\JaPediu\JaPediu\bin\Debug\JaPediu.exe
-C:\Users\Pós Venda 02\source\repos\JaPediu\JaPediu\bin\Debug\JaPediu.pdb
-C:\Users\Pós Venda 02\source\repos\JaPediu\JaPediu\obj\Debug\JaPediu.csprojAssemblyReference.cache
-C:\Users\Pós Venda 02\source\repos\JaPediu\JaPediu\obj\Debug\JaPediu.csproj.CoreCompileInputs.cache
-C:\Users\Pós Venda 02\source\repos\JaPediu\JaPediu\obj\Debug\JaPediu.exe
-C:\Users\Pós Venda 02\source\repos\JaPediu\JaPediu\obj\Debug\JaPediu.pdb
